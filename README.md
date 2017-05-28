@@ -39,3 +39,4 @@ Install:
 6. karma-webpack@1.7.0
 7. mocha@2.4.5
 8. expect@1.14.0 --save-dev
+9. react-addons-test-utils@0.14.6
